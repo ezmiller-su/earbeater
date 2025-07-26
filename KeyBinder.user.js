@@ -6,6 +6,8 @@
 // @match        *.earbeater.com/online-ear-training/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=earbeater.com
 // @grant        GM_addStyle
+// @downloadURL  https://raw.githubusercontent.com/ezmiller-su/earbeater/main/KeyBinder.user.js
+// @updateURL    https://raw.githubusercontent.com/ezmiller-su/earbeater/main/KeyBinder.user.js
 // ==/UserScript==
 
 (function() {
