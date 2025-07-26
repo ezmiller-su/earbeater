@@ -1,4 +1,4 @@
-Userscript extension for www.earbeater.com's online ear training.
+Userscript extension for www.earbeater.com online ear training.
 
 Escape:       Return to menu from an exercise
 Spacebar:     Move on to the next question
